@@ -1,2 +1,2 @@
 # Snake
-Documentei um jogo chamado Snake. Atividade que o professor Weberson pediu.
+Documentei o game chamado Snake. Atividade da faculdade, análise e desenvolvimento de sistemas. 
